@@ -463,6 +463,10 @@
     [
       "66a86fd1-6d7e-409e-9247-a06c4bb5f933",
       "LED1_BANK4"
+    ],
+    [
+      "f7599179-3c4d-433f-b150-d4b71ae53d22",
+      "sample"
     ]
   ],
   "text_variables": {},

@@ -374,6 +374,52 @@
 		)
 	)
 	(sheet
+		(at 199.39 43.18)
+		(size 30.48 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f7599179-3c4d-433f-b150-d4b71ae53d22")
+		(property "Sheetname" "sample"
+			(at 199.39 42.4684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sample.kicad_sch"
+			(at 199.39 61.5446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "p10 led pcb"
+				(path "/eadb67d5-a433-424d-9bb3-9933fead6c55"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 36.83 166.37)
 		(size 15.24 6.35)
 		(exclude_from_sim no)
