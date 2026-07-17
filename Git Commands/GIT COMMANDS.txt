@@ -1,0 +1,21 @@
+GIT COMMANDS
+
+TO PUSH THE FILES
+
+git init
+git add .
+git commit -m "Initial KiCad project"
+git branch -M main
+git remote add origin "https://github.com/Saro21s/P10_LED_PCB.git"
+git push -u origin main
+
+TO PUSH THE UPDATES
+
+git add .
+git commit -m "Updated PCB"
+git push
+
+TO SEE THE CHANGES IN ANOTHER LAPTOP
+
+git clone "https://github.com/Saro21s/P10_LED_PCB.git"
+git pull
