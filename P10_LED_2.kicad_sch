@@ -1,0 +1,658 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "5bf83443-a365-405c-87ec-0622411c2f24")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 22.86 99.06)
+		(size 19.05 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "24ecffe2-8dfe-4704-b069-64073c17dd31")
+		(property "Sheetname" "I&O_BUFFER"
+			(at 22.86 98.3484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "I&O_BUFFER.kicad_sch"
+			(at 22.86 109.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "P10_LED_2"
+				(path "/5bf83443-a365-405c-87ec-0622411c2f24"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 87.63 107.95)
+		(size 33.02 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2d514b5f-8988-4796-a9da-cce35cb24f94")
+		(property "Sheetname" "LED1 _BANK1"
+			(at 87.63 107.2384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED1 _BANK1.kicad_sch"
+			(at 87.63 122.5046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "P10_LED_2"
+				(path "/5bf83443-a365-405c-87ec-0622411c2f24"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 118.11)
+		(size 19.05 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2db192ee-0578-4db7-a6b9-577e0211da58")
+		(property "Sheetname" "LED_DRIVER"
+			(at 25.4 117.3984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED_DRIVER.kicad_sch"
+			(at 25.4 131.3946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "P10_LED_2"
+				(path "/5bf83443-a365-405c-87ec-0622411c2f24"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 25.4)
+		(size 19.05 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a8e7432f-c473-49cd-ab38-3754f8234926")
+		(property "Sheetname" "POWER_SUPPLY_1"
+			(at 24.13 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER_SUPPLY_1.kicad_sch"
+			(at 24.13 37.4146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "P10_LED_2"
+				(path "/5bf83443-a365-405c-87ec-0622411c2f24"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.17 40.64)
+		(size 17.78 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ac3558c8-a8f0-489e-8efb-8d450fd8bb2e")
+		(property "Sheetname" "LEDS_BANK2"
+			(at 90.17 39.9284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LEDS_BANK2.kicad_sch"
+			(at 90.17 52.6546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "P10_LED_2"
+				(path "/5bf83443-a365-405c-87ec-0622411c2f24"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 44.45)
+		(size 19.05 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b720d1e1-59f4-4103-a9dc-de9d6ae555ef")
+		(property "Sheetname" "POWER_SUPPLY_2"
+			(at 24.13 43.7384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER_SUPPLY_2.kicad_sch"
+			(at 24.13 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "P10_LED_2"
+				(path "/5bf83443-a365-405c-87ec-0622411c2f24"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 80.01)
+		(size 19.05 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "baf878f7-f751-4fab-90ba-2eb783d392e2")
+		(property "Sheetname" "FRONT_DISPLAY_BOARD"
+			(at 24.13 79.2984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FRONT_DISPLAY_BOARD.kicad_sch"
+			(at 24.13 92.0246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "P10_LED_2"
+				(path "/5bf83443-a365-405c-87ec-0622411c2f24"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 62.23)
+		(size 19.05 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c0403719-ea88-42ef-bb6d-eb9796ae58ca")
+		(property "Sheetname" "MCU"
+			(at 24.13 61.5184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 24.13 74.2446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "P10_LED_2"
+				(path "/5bf83443-a365-405c-87ec-0622411c2f24"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 91.44 128.27)
+		(size 24.13 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c29f11a6-3951-4a84-8d4e-d90ac8130a79")
+		(property "Sheetname" "LED2_BANK2"
+			(at 91.44 127.5584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED2 _BANK2.kicad_sch"
+			(at 91.44 141.5546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "P10_LED_2"
+				(path "/5bf83443-a365-405c-87ec-0622411c2f24"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 93.98 158.75)
+		(size 24.13 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c2f7ee73-a0de-4c08-bed7-17651d81a86c")
+		(property "Sheetname" "LED3 _BANK3"
+			(at 93.98 158.0384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED3 _BANK3.kicad_sch"
+			(at 93.98 170.7646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "P10_LED_2"
+				(path "/5bf83443-a365-405c-87ec-0622411c2f24"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.17 64.77)
+		(size 19.05 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "cb31e7ee-8e0a-4a9d-a2fd-a754182503d6")
+		(property "Sheetname" "LEDS _BANK3"
+			(at 90.17 64.0584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LEDS _BANK3.kicad_sch"
+			(at 90.17 78.0546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "P10_LED_2"
+				(path "/5bf83443-a365-405c-87ec-0622411c2f24"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 91.44 86.36)
+		(size 26.67 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d0ebb50f-278d-4b20-b3fc-550860a6e876")
+		(property "Sheetname" "LEDS _BANK4 (page 11)"
+			(at 91.44 85.6484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LEDS _BANK4.kicad_sch"
+			(at 91.44 102.1846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "P10_LED_2"
+				(path "/5bf83443-a365-405c-87ec-0622411c2f24"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 21.59)
+		(size 29.21 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f273c8d6-1f5d-463d-86b2-5e6ac7d9bd70")
+		(property "Sheetname" "LED4 _BANK4"
+			(at 137.16 20.8784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED4 _BANK4.kicad_sch"
+			(at 137.16 41.2246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "P10_LED_2"
+				(path "/5bf83443-a365-405c-87ec-0622411c2f24"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.17 22.86)
+		(size 17.78 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f9a9f48f-7477-4147-a7bc-cf6562a16a25")
+		(property "Sheetname" "LEDS_BANK1"
+			(at 90.17 22.1484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LEDS_BANK1.kicad_sch"
+			(at 90.17 34.8746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "P10_LED_2"
+				(path "/5bf83443-a365-405c-87ec-0622411c2f24"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
