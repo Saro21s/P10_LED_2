@@ -5804,7 +5804,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bd1fc6d-53e9-4589-976e-2f575ff590d1")
-		(property "Reference" "DC25"
+		(property "Reference" "DC30"
 			(at 26.67 82.6769 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5868,7 +5868,7 @@
 		(instances
 			(project "P10_LED_2"
 				(path "/5bf83443-a365-405c-87ec-0622411c2f24/cb31e7ee-8e0a-4a9d-a2fd-a754182503d6"
-					(reference "DC25")
+					(reference "DC30")
 					(unit 1)
 				)
 			)
@@ -7151,7 +7151,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f749007-1829-4ac7-8ede-bed27875f0c0")
-		(property "Reference" "DC28"
+		(property "Reference" "DC25"
 			(at 29.21 28.0669 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7215,7 +7215,7 @@
 		(instances
 			(project "P10_LED_2"
 				(path "/5bf83443-a365-405c-87ec-0622411c2f24/cb31e7ee-8e0a-4a9d-a2fd-a754182503d6"
-					(reference "DC28")
+					(reference "DC25")
 					(unit 1)
 				)
 			)
@@ -8460,7 +8460,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e9f9b1d-529d-420f-bf34-9ca31015706b")
-		(property "Reference" "DC26"
+		(property "Reference" "DC33"
 			(at 26.67 113.1569 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8524,7 +8524,7 @@
 		(instances
 			(project "P10_LED_2"
 				(path "/5bf83443-a365-405c-87ec-0622411c2f24/cb31e7ee-8e0a-4a9d-a2fd-a754182503d6"
-					(reference "DC26")
+					(reference "DC33")
 					(unit 1)
 				)
 			)
@@ -9218,7 +9218,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6218bf8b-3989-48b3-98c3-7a046f7fc3c3")
-		(property "Reference" "DC27"
+		(property "Reference" "DC28"
 			(at 27.94 56.0069 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9282,7 +9282,7 @@
 		(instances
 			(project "P10_LED_2"
 				(path "/5bf83443-a365-405c-87ec-0622411c2f24/cb31e7ee-8e0a-4a9d-a2fd-a754182503d6"
-					(reference "DC27")
+					(reference "DC28")
 					(unit 1)
 				)
 			)
@@ -10230,7 +10230,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98f6bfa3-d3a7-44bd-9920-eba2afa3fd64")
-		(property "Reference" "DC33"
+		(property "Reference" "DC32"
 			(at 250.19 111.8869 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10294,7 +10294,7 @@
 		(instances
 			(project "P10_LED_2"
 				(path "/5bf83443-a365-405c-87ec-0622411c2f24/cb31e7ee-8e0a-4a9d-a2fd-a754182503d6"
-					(reference "DC33")
+					(reference "DC32")
 					(unit 1)
 				)
 			)
@@ -10576,7 +10576,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ab1246f-8589-45cb-aa62-480fea171b83")
-		(property "Reference" "DC30"
+		(property "Reference" "DC26"
 			(at 250.19 28.0669 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10640,7 +10640,7 @@
 		(instances
 			(project "P10_LED_2"
 				(path "/5bf83443-a365-405c-87ec-0622411c2f24/cb31e7ee-8e0a-4a9d-a2fd-a754182503d6"
-					(reference "DC30")
+					(reference "DC26")
 					(unit 1)
 				)
 			)
@@ -11201,7 +11201,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "accbc9d3-2c40-46af-b495-e45bd59833c8")
-		(property "Reference" "DC31"
+		(property "Reference" "DC27"
 			(at 250.19 54.7369 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11265,7 +11265,7 @@
 		(instances
 			(project "P10_LED_2"
 				(path "/5bf83443-a365-405c-87ec-0622411c2f24/cb31e7ee-8e0a-4a9d-a2fd-a754182503d6"
-					(reference "DC31")
+					(reference "DC27")
 					(unit 1)
 				)
 			)
@@ -12012,7 +12012,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9c8e3ee-843d-45de-a028-aac65ec1543f")
-		(property "Reference" "DC32"
+		(property "Reference" "DC31"
 			(at 250.19 82.6769 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12076,7 +12076,7 @@
 		(instances
 			(project "P10_LED_2"
 				(path "/5bf83443-a365-405c-87ec-0622411c2f24/cb31e7ee-8e0a-4a9d-a2fd-a754182503d6"
-					(reference "DC32")
+					(reference "DC31")
 					(unit 1)
 				)
 			)
